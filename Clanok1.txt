@@ -1,0 +1,3 @@
+Autor: Patrik Hrabčák
+Nazov: Ako funguje Git? To je dobrá otázka
+Datum: 24.5.2020
