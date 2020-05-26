@@ -1,3 +1,7 @@
 Autor: Patrik Hrabčák
-Nazov: Ako funguje Git? To je dobrá otázka (v1.0)
+Nazov: Ako funguje Git? To je dobrá otázka
 Datum: 24.5.2020
+----
+Git je super vec.
+No málo kto vie ako ho správne ovládať.
+A popravde to neviem ani ja.
