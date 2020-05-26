@@ -1,3 +1,7 @@
 Autor: Patrik Hrabčák
-Nazov: Ako funguje Git? To je dobrá otázka (v2.0)
+Nazov: Ako funguje Git? To je dobrá otázka
 Datum: 24.5.2020
+----
+Git je pomôcka na sledovanie zmien v zdrojovóm kóde.
+Využíva ho mnoho vývojárov.
+No nie každý vie ako ho správne využívať.
