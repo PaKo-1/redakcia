@@ -9,3 +9,7 @@ A popravde to neviem ani ja.
 Git sa skladá z branchov.
 Branche su súper vec kedže môžete pracovať na viacerých verziách súčastne bez vzájomného ovplivňovaqnia.
 Ideálne pre vývojárov.
+----
+Git je užitočná pomôcka.
+Oplatí sa ju naučiť používať.
+Uľahčuje to prácu :)
