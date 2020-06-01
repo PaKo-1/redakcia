@@ -2,9 +2,9 @@ Autor: Patrik Hrabčák
 Nazov: Ako funguje Git? To je dobrá otázka
 Datum: 24.5.2020
 ----
-Git je super vec.
-No málo kto vie ako ho správne ovládať.
-A popravde to neviem ani ja.
+Git je nenormálna vec.
+No málo kto vie ako ho správne ovládať. Hlúpy sú všetci asi.
+A popravde to neviem ani ja. Taže aj ja som vlastne hlúpy :(
 ----
 Git sa skladá z branchov.
 Branche su súper vec kedže môžete pracovať na viacerých verziách súčastne bez vzájomného ovplivňovaqnia.
