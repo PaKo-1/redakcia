@@ -9,7 +9,3 @@ A popravde to neviem ani ja.
 Git sa skladá z branchov.
 Branche su súper vec kedže môžete pracovať na viacerých verziách súčastne bez vzájomného ovplivňovaqnia.
 Ideálne pre vývojárov.
-----
-Mily citatelia
-na toto sme bohuzial
-nemali cas.
